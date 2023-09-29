@@ -12,8 +12,6 @@ This repository contains code and resources for mapping and conserving mangrove 
 - Promotes environmental awareness, mangrove conservation, and climate change mitigation.
 
 ## Usage
-
-- Clone this repository: `git clone https://github.com/yourusername/mangrove-mapping.git`
 - Explore the code and resources in the respective folders.
 - Refer to the documentation for detailed information.
 
