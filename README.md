@@ -11,6 +11,9 @@ This repository contains code and resources for mapping and conserving mangrove 
 - Aids in identifying priority areas for mangrove conservation.
 - Promotes environmental awareness, mangrove conservation, and climate change mitigation.
 
+![geeee](https://github.com/adnanabbasshah/Mapping_Mangrove_Forests/assets/106626201/8cdffa63-b40d-4d98-8c20-3f800ab58286)
+
+
 ## Usage
 - Explore the code and resources in the respective folders.
 - Refer to the documentation for detailed information.
@@ -18,6 +21,7 @@ This repository contains code and resources for mapping and conserving mangrove 
 ## Contributions
 
 Contributions to this project are welcome! Whether you're interested in improving the mapping algorithms, enhancing data visualization, or contributing to the documentation, your efforts can help further our understanding of mangrove ecosystems and contribute to their conservation.
+
 
 ## Tags
 
